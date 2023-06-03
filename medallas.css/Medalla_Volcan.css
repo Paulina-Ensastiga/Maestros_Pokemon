@@ -1,0 +1,34 @@
+.titulo-principal{
+    text-align: center;
+    padding-left: 30px;
+}
+.Integrantes{
+   
+    padding: 20px;
+    background-size: 100%;
+}
+.diferenciales{
+    text-align: center;
+    background: #FFFFFF;
+    padding: 30px;
+    padding: 30px;
+}
+.Discografía{
+    text-align: left;
+    background: #FFFFFF;
+    padding: 30px;
+    padding: 30px;
+}
+.items{
+    font-style: italic;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.Coldplay{
+    width: 50%;
+
+}

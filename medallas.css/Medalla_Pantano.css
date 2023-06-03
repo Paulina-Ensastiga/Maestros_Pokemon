@@ -1,0 +1,21 @@
+.perrito{
+    box-sizing: content-box;
+    width: 20%;
+    height: 10rem;
+    padding: 5px;
+  
+}
+.gatito{
+    box-sizing: content-box;
+    width: 20%;
+    height: 10rem;
+    padding: 5px;
+    
+}
+.pajarito{
+    box-sizing: content-box;
+    width: 20%;
+    height: 10rem;
+    padding: 5px;
+   
+}

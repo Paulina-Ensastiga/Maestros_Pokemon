@@ -1,0 +1,32 @@
+body{
+     
+    position:absolute;
+    text-align: center;
+   
+    
+    transform: translate(50%, 25px);
+    font-size: 1.5rem;
+    font-weight: 50;
+}
+h3{
+    text-align: center;
+}
+caption{
+    border: 1px solid black
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+table{
+    width: 300px;
+}
+.Pokemones{
+    width: 100px;
+    height: 100px;
+}
+.enlace{
+    text-decoration: none;
+    color: #000;
+}
